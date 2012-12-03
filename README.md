@@ -1,0 +1,4 @@
+MoobinJS
+========
+
+jQuery-based Framework
